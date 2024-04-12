@@ -1,0 +1,480 @@
+# Translation of Themes - Qoe in English (Canada)
+# This file is distributed under the same license as the Themes - Qoe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-26 11:37:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Qoe\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Qoe is a minimal, clean, and powerful WordPress block theme for WooCommerce."
+msgstr "Qoe is a minimal, clean, and powerful WordPress block theme for WooCommerce."
+
+#. Theme Name of the theme
+#: style.css functions.php:79 functions.php:146
+#, gp-priority: high
+msgid "Qoe"
+msgstr "Qoe"
+
+#: patterns/footer.php:59
+msgid "Help Center"
+msgstr "Help Centre"
+
+#: styles/jasmine.json
+msgctxt "Style variation name"
+msgid "Jasmine"
+msgstr "Jasmine"
+
+#: styles/citron.json
+msgctxt "Style variation name"
+msgid "Citron"
+msgstr "Citron"
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr "Blue"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Header"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Wide Layout"
+msgstr "Wide Layout"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No Title and Space"
+msgstr "No Title and Space"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X Large"
+msgstr "2X Large"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Large"
+msgstr "X Large"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Large"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Small"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Small"
+msgstr "X Small"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X Small"
+msgstr "2X Small"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary"
+msgstr "Primary"
+
+#: styles/blue.json styles/citron.json styles/jasmine.json theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr "Inherit"
+
+#: styles/blue.json styles/citron.json styles/jasmine.json theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr "Current Colour"
+
+#: styles/blue.json styles/citron.json styles/jasmine.json theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr "Transparent"
+
+#: styles/blue.json styles/citron.json styles/jasmine.json theme.json
+msgctxt "Color name"
+msgid "Senary"
+msgstr "Senary"
+
+#: styles/blue.json styles/citron.json styles/jasmine.json theme.json
+msgctxt "Color name"
+msgid "Quinary"
+msgstr "Quinary"
+
+#: styles/blue.json styles/citron.json styles/jasmine.json theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr "Quaternary"
+
+#: styles/blue.json styles/citron.json styles/jasmine.json theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiary"
+
+#: styles/blue.json styles/citron.json styles/jasmine.json theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secondary"
+
+#: styles/blue.json styles/citron.json styles/jasmine.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primary"
+
+#: styles/blue.json styles/citron.json styles/jasmine.json theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "4X Large"
+msgstr "4X Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3X Large"
+msgstr "3X Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X Large"
+msgstr "2X Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr "X Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Small"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Small"
+msgstr "X Small"
+
+#: patterns/quick-promotions.php
+msgctxt "Pattern title"
+msgid "Quick Promotions"
+msgstr "Quick Promotions"
+
+#: patterns/products-on-sale.php
+msgctxt "Pattern title"
+msgid "Products On Sale"
+msgstr "Products On Sale"
+
+#: patterns/our-brands.php
+msgctxt "Pattern title"
+msgid "Our Brands"
+msgstr "Our Brands"
+
+#: patterns/latest-products.php
+msgctxt "Pattern title"
+msgid "Latest Products"
+msgstr "Latest Products"
+
+#: patterns/hero.php
+msgctxt "Pattern title"
+msgid "Hero"
+msgstr "Hero"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Header"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Footer"
+
+#: patterns/features.php
+msgctxt "Pattern title"
+msgid "Features"
+msgstr "Features"
+
+#: patterns/cta.php
+msgctxt "Pattern title"
+msgid "Call to Action"
+msgstr "Call to Action"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "A 404 page"
+
+#: patterns/quick-promotions.php:66
+msgid "Perfumes"
+msgstr "Perfumes"
+
+#: patterns/quick-promotions.php:62
+msgid "Imported"
+msgstr "Imported"
+
+#: patterns/quick-promotions.php:48
+msgid "Footwear"
+msgstr "Footwear"
+
+#: patterns/quick-promotions.php:44
+msgid "Original"
+msgstr "Original"
+
+#: patterns/quick-promotions.php:27
+msgid "New Arrivals"
+msgstr "New Arrivals"
+
+#: patterns/quick-promotions.php:23
+msgid "Spring Collection"
+msgstr "Spring Collection"
+
+#: patterns/products-on-sale.php:24
+msgid "Products On Sale"
+msgstr "Products On Sale"
+
+#: patterns/our-brands.php:24
+msgid "Best Selling Brands"
+msgstr "Best Selling Brands"
+
+#: patterns/latest-products.php:24
+msgid "New In Store"
+msgstr "New In Store"
+
+#: patterns/hero.php:35
+msgid "SHOP NOW"
+msgstr "SHOP NOW"
+
+#: patterns/hero.php:25
+msgid "FOOTWEAR &amp; CLOTHING"
+msgstr "FOOTWEAR &amp; CLOTHING"
+
+#: patterns/hero.php:21
+msgid "GIFTS, COSMETICS,"
+msgstr "GIFTS, COSMETICS,"
+
+#: patterns/hero.php:16
+msgid "Best in Town"
+msgstr "Best in Town"
+
+#. translators: %s: Copyright text.
+#: patterns/footer.php:121
+msgid "Copyright © %s. All Rights Reserved."
+msgstr "Copyright © %s. All Rights Reserved."
+
+#: patterns/footer.php:96
+msgid "Qoe is a WordPress block theme that empowers you to unleash your creativity like never before. Execute your digital dreams effortlessly."
+msgstr "Qoe is a WordPress block theme that empowers you to unleash your creativity like never before. Execute your digital dreams effortlessly."
+
+#: patterns/footer.php:83
+msgid "Terms &amp; Conditions"
+msgstr "Terms &amp; Conditions"
+
+#: patterns/footer.php:79
+msgid "Privacy Policies"
+msgstr "Privacy Policies"
+
+#: patterns/footer.php:75
+msgid "Showcase"
+msgstr "Showcase"
+
+#: patterns/footer.php:71
+msgid "Affiliate"
+msgstr "Affiliate"
+
+#: patterns/footer.php:66
+msgid "Quick Links"
+msgstr "Quick Links"
+
+#: patterns/footer.php:55
+msgid "Documentation"
+msgstr "Documentation"
+
+#: patterns/footer.php:51
+msgid "Blog Posts"
+msgstr "Blog Posts"
+
+#: patterns/footer.php:47
+msgid "Knowledgebase"
+msgstr "Knowledgebase"
+
+#: patterns/footer.php:42
+msgid "Resources"
+msgstr "Resources"
+
+#: patterns/footer.php:34
+msgid "Newsroom"
+msgstr "Newsroom"
+
+#: patterns/footer.php:30
+msgid "The Team"
+msgstr "The Team"
+
+#: patterns/footer.php:26
+msgid "Success Stories"
+msgstr "Success Stories"
+
+#: patterns/footer.php:22 patterns/footer.php:92
+msgid "About"
+msgstr "About"
+
+#: patterns/footer.php:17
+msgid "Company"
+msgstr "Company"
+
+#: patterns/features.php:67
+msgid "Free shipping above $599"
+msgstr "Free shipping above $599"
+
+#: patterns/features.php:63
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+#: patterns/features.php:49
+msgid "Online, phone and email support"
+msgstr "Online, phone and email support"
+
+#: patterns/features.php:45
+msgid "24/7 Support"
+msgstr "24/7 Support"
+
+#: patterns/features.php:31
+msgid "100% security guaranteed"
+msgstr "100% security guaranteed"
+
+#: patterns/features.php:27
+msgid "Secure Payment"
+msgstr "Secure Payment"
+
+#: patterns/cta.php:39 patterns/quick-promotions.php:32
+#: patterns/quick-promotions.php:53 patterns/quick-promotions.php:71
+msgid "Shop Now"
+msgstr "Shop Now"
+
+#: patterns/cta.php:30
+msgid "Get 25% Off!"
+msgstr "Get 25% Off!"
+
+#: patterns/cta.php:26
+msgid "Summer Sales"
+msgstr "Summer Sales"
+
+#: patterns/404.php:39
+msgid "Go to Home"
+msgstr "Go to Home"
+
+#: patterns/404.php:28
+msgid "Sorry but the page you are looking for could not be found. It might have been deleted, renamed, or is temporarily unavailable. You can search the site below, or return to the front page."
+msgstr "Sorry but the page you are looking for could not be found. It might have been deleted, renamed, or is temporarily unavailable. You can search the site below, or return to the front page."
+
+#: patterns/404.php:24
+msgid "Oops! Page not found"
+msgstr "Oops! Page not found"
+
+#: patterns/404.php:20
+msgid "404"
+msgstr "404"
+
+#: functions.php:101
+msgid "Right Aligned"
+msgstr "Right Aligned"
+
+#: functions.php:100
+msgid "Left Aligned"
+msgstr "Left Aligned"
+
+#: functions.php:99
+msgid "Wide Thin Line"
+msgstr "Wide Thin Line"
+
+#: functions.php:98
+msgid "Dotted"
+msgstr "Dotted"
+
+#: functions.php:95
+msgid "None"
+msgstr "None"
+
+#: functions.php:94
+msgid "Square"
+msgstr "Square"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://maneshtimilsina.com/"
+msgstr "https://maneshtimilsina.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Manesh Timilsina"
+msgstr "Manesh Timilsina"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://maneshtimilsina.com/themes/qoe/"
+msgstr "https://maneshtimilsina.com/themes/qoe/"
